@@ -10,3 +10,6 @@ For this the logic that i tried to use was that difference in successive reading
 I copied the  living shit out of my friends code because i ran out of time however i did in fact do the entire circuit by myself cuz it took a while to figure out how the wiring worked and stuff and i procrastinated too long to write the code (Apologies). However i do in fact understand every line of code perfectly well and had a different pseudocode written by myself which i tried having ai convert to actual code but failed miserably...
 
 Anyways, So yeh the circuit works now. 
+
+ps. I DID INFACT DO TASK 1 VERY ERNESTLY THO
+Thanks :D
